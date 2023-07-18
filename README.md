@@ -13,7 +13,7 @@
   - There are several data types that are not suitable, namely in the Children, Agent, and Company features
     which should have an integer data type instead of a float data type, so the data type must be changed.
 - Drop Unnecessary Data
-  Drop data that has 0 total_guests and 0 stay_duration.
+  - Drop data that has 0 total_guests and 0 stay_duration.
 
 ## Monthly Hotel Booking Analysis Based on Hotel Type
 
